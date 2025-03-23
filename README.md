@@ -1,2 +1,8 @@
 # spring-api-cadastro-produto
-Este projeto é voltado para o aprendizado de tecnologias RESTful, com foco na prática de módulos do Spring, especialmente o Spring Web. O objetivo é ganhar experiência na construção de APIs e entender melhor os recursos que o Spring oferece.
+
+Objetivo
+Este projeto tem como foco o aprendizado de tecnologias RESTful, com ênfase na prática dos módulos do Spring, especialmente o Spring Web. O objetivo é ganhar experiência na construção de APIs e explorar melhor os recursos do Spring.
+
+Escopo do projeto
+O sistema desenvolvido permite um CRUD simples, possibilitando o cadastro, leitura, atualização e exclusão de produtos.
+
