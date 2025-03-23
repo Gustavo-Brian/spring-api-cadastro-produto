@@ -8,8 +8,7 @@
 
 <h2>Modo como o sistema foi projetado</h2>
 <h3>O sistema é divido em 5 componentes principais, sendo eles: </h3>
-<table style="width: 100%; border-collapse: collapse; text-align: center; font-family: Arial, sans-serif;">
-    <caption style="font-size: 1.3em; font-weight: bold; margin-bottom: 10px;">Componentes</caption>
+<table>
     <tr>
         <th style="border: 1px solid #ddd; padding: 12px; background-color: #f4f4f4;">Controller</th>
         <th style="border: 1px solid #ddd; padding: 12px; background-color: #f4f4f4;">Entity</th>
