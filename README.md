@@ -10,11 +10,11 @@
 <h3>O sistema é divido em 5 componentes principais, sendo eles: </h3>
 <table>
     <tr>
-        <th style="border: 1px solid #ddd; padding: 12px; background-color: #f4f4f4;">Controller</th>
-        <th style="border: 1px solid #ddd; padding: 12px; background-color: #f4f4f4;">Entity</th>
-        <th style="border: 1px solid #ddd; padding: 12px; background-color: #f4f4f4;">Service</th>
-        <th style="border: 1px solid #ddd; padding: 12px; background-color: #f4f4f4;">DTO</th>
-        <th style="border: 1px solid #ddd; padding: 12px; background-color: #f4f4f4;">Repository</th>
+        <th>Controller</th>
+        <th>Entity</th>
+        <th>Service</th>
+        <th>DTO</th>
+        <th>Repository</th>
     </tr>
 </table>
 
