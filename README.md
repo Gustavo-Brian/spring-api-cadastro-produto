@@ -6,7 +6,7 @@
 <h2>Escopo do projeto</h2>
 <p>O sistema desenvolvido permite um CRUD simples, possibilitando o cadastro, leitura, atualização e exclusão de produtos.</p>
 
-<h2>Modo, como o sistema foi projetado</h2>
+<h2>Modo como o sistema foi projetado</h2>
 <h3>O sistema é divido em 5 componentes principais, sendo eles: </h3>
 <table border="1">
     <caption>Componentes</caption>
